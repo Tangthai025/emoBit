@@ -1,0 +1,6 @@
+- emoBit from the ctf TCTT2024
+- this section is a ctf cryptography Hard
+- use this code for decode emo cat and use cyberchef for decode binary
+- after decode form binary you got the emoji
+- use base100 for decode emoji
+- for the last you got the flag
